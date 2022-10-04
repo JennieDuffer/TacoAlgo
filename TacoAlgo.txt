@@ -1,0 +1,5 @@
+Choose your taco shell.
+Choose your meat.
+Choose your toppings.
+Place your order.
+Enjoy your taco!
