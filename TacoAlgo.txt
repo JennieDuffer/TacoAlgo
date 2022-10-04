@@ -1,3 +1,4 @@
+Select your taco restaurant!
 Choose your taco shell.
 Choose your meat.
 Choose your toppings.
